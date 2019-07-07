@@ -15,30 +15,25 @@ Use Visual Studio Code like a Pro
 | --- | --- | --- |
 | cut line where cursor is, without selection | ⌘ x | <img src="./gifs/cut-line.gif" alt="cut line without selection" title="cut line without selection" width="600" /> |
 
-# 💤 Copying & Pasting
+# 💤 Copy & Pasting
 | Purpose | Keystrokes | Illustration |
 | --- | --- | --- |
-| copy line and paste it | ⌘ c ⌘ v | <img src="./gifs/copy-paste-line.gif" alt="copy & paste line" title="copy & paste line" width="600" /> |
-| cut line and paste it | ⌘ x ⌘ v | <img src="./gifs/cut-paste-line.gif" alt="cut & paste line" title="cut & paste line" width="600" /> |
-| copy line where cursor is, without selection, paste it up or down | ⌥ ⇧ ⇡ <br> ⌥ ⇧ ⇣| <img src="./gifs/copy-paste-line-updown.gif" alt="copy paste line" title="copy paste line" width="600" /> |
-
+| copy line and paste it | ⌘ C ⌘ V | <img src="./gifs/copy-paste-line.gif" alt="copy & paste line" title="copy & paste line" width="600" /> |
+| cut line and paste it | ⌘ X ⌘ V | <img src="./gifs/cut-paste-line.gif" alt="cut & paste line" title="cut & paste line" width="600" /> |
+| copy line where cursor is, without selection, paste it up or down | ⌥ ⇧ ⇡ <br> ⌥ ⇧ ⇣ | <img src="./gifs/copy-paste-line-updown.gif" alt="copy line & paste it up or down" title="copy line & paste it up or down" width="600" /> |
 
 # 🐴🦄 Replacing
-| Keystrokes | Illustration |
-| --- | --- |
-| ⌥ ⇢<br>⌥ ⇠| <img src="./gifs/move-by-word.gif" alt="move by word" title="move by a word" width="600" /> |
+| Purpose | Keystrokes | Illustration |
+| --- | --- | --- |
 
 # Opening
-| Keystrokes | Illustration |
-| --- | --- |
-| ⌥ ⇢<br>⌥ ⇠| <img src="./gifs/move-by-word.gif" alt="move by word" title="move by a word" width="600" /> |
+| Purpose | Keystrokes | Illustration |
+| --- | --- | --- |
 
 # Debugging
-| Keystrokes | Illustration |
-| --- | --- |
-| ⌥ ⇢<br>⌥ ⇠| <img src="./gifs/move-by-word.gif" alt="move by word" title="move by a word" width="600" /> |
+| Purpose | Keystrokes | Illustration |
+| --- | --- | --- |
 
 # Tooling
-| Keystrokes | Illustration |
-| --- | --- |
-| ⌥ ⇢<br>⌥ ⇠| <img src="./gifs/move-by-word.gif" alt="move by word" title="move by a word" width="600" /> |
+| Purpose | Keystrokes | Illustration |
+| --- | --- | --- |
