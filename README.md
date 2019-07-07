@@ -13,7 +13,8 @@ Use Visual Studio Code like a Pro
 # ✄ Removing
 | Purpose | Keystrokes | Illustration |
 | --- | --- | --- |
-| cut line where cursor is, without selection | ⌘ x | <img src="./gifs/cut-line.gif" alt="cut line without selection" title="cut line without selection" width="600" /> |
+| cut line where cursor is, without selection | ⌘ X | <img src="./gifs/cut-line.gif" alt="cut line without selection" title="cut line without selection" width="600" /> |
+ Remove line where cursor is, without selection | ⌘ ⇧ K | <img src="./gifs/remove-line.gif" alt="remove line" title="remove line" width="600" /> |
 
 # 💤 Copy & Pasting
 | Purpose | Keystrokes | Illustration |
