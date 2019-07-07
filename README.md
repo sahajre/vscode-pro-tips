@@ -7,8 +7,13 @@ Use Visual Studio Code like a Pro
 | --- | --- | --- |
 | Move line up/down | ⌥ ⇡<br>⌥ ⇣ | <img src="./gifs/move-line-updown.gif" alt="move a line up/down" title="move a line up/down" width="600" /> |
 | Move selected line(s) up/down | ⌥ ⇡ <br> ⌥ ⇣ | <img src="./gifs/move-selection-updown.gif" alt="move line selection up/down" title="move line selection up/down" width="600" /> |
-| Move cursor forward/backward by a word | ⌥ ⇢ <br> ⌥ ⇠ | <img src="./gifs/move-by-word.gif" alt="move by word" title="move by a word" width="600" /> |
+| Move cursor forward/backward by a word | ⌥ ⇢ <br> ⌥ ⇠ | <img src="./gifs/move-word-startend.gif" alt="move by word" title="move by a word" width="600" /> |
 | Move cursor to the start/end of line | ⌘ ⇢ <br> ⌘ ⇠| <img src="./gifs/move-to-line-startend.gif" alt="Move cursor to the start/end of line" title="Move cursor to the start/end of line" width="600" /> |
+
+# ⎀ Inserting
+| Purpose | Keystrokes | Illustration |
+| --- | --- | --- |
+| Insert a new line (above or below) and move cursor on it | ⌘ ⏎ <br> ⌘ ⇧ ⏎ | <img src="./gifs/insert-line.gif" alt="Insert new line above/below" title="Insert new line above/below" width="600" /> |
 
 # ✄ Removing
 | Purpose | Keystrokes | Illustration |
