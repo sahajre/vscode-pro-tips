@@ -8,7 +8,8 @@ Use Visual Studio Code like a Pro
 | Move line up/down | ⌥ ⇡<br>⌥ ⇣ | <img src="./gifs/move-line-updown.gif" alt="move a line up/down" title="move a line up/down" width="600" /> |
 | Move selected line(s) up/down | ⌥ ⇡ <br> ⌥ ⇣ | <img src="./gifs/move-selection-updown.gif" alt="move line selection up/down" title="move line selection up/down" width="600" /> |
 | Move cursor forward/backward by a word | ⌥ ⇢ <br> ⌥ ⇠ | <img src="./gifs/move-word-startend.gif" alt="move by word" title="move by a word" width="600" /> |
-| Move cursor to the start/end of line | ⌘ ⇢ <br> ⌘ ⇠| <img src="./gifs/move-to-line-startend.gif" alt="Move cursor to the start/end of line" title="Move cursor to the start/end of line" width="600" /> |
+| Move cursor to the beginning/end of the line | ⌘ ⇢ <br> ⌘ ⇠| <img src="./gifs/move-to-line-startend.gif" alt="Move cursor to the beginning/end of the line" title="Move cursor to the beginning/end of the line" width="600" /> |
+| Indent/outdent selection | ⌘ ] <br> ⌘ [ | <img src="./gifs/move-selection-inoutdent.gif" alt="Indent/outdent selection" title="Indent/outdent selection" width="600" /> |
 
 # ⎀ Inserting
 | Purpose | Keystrokes | Illustration |
