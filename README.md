@@ -33,6 +33,7 @@ Use Visual Studio Code like a Pro
 
 # 🐴🦄 Replacing
 | Purpose | Keystrokes | Illustration |
+| --- | --- | --- |
 | Select occurences of selected text or the word where cursor is, then delete and type or paste to replace | ⌘ D | <img src="./gifs/replacing-word-occurences.gif" alt="replace word/selection occurences" title="replace word/selection occurences" width="600" /> |
 | Select **all** occurences of selected text or the word where cursor is, then delete and type or paste to replace | ⌘ ⇧ L | <img src="./gifs/selecting-all-matches.gif" alt="replace word/selection occurences" title="replace word/selection occurences" width="600" /> |
 
